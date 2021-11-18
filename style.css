@@ -1,0 +1,11 @@
+body {background-color:hsl(0, 0%, 90%);
+    font-family:sans-serif;
+}
+.Boolean{
+    color:grey;
+}
+
+.news{
+    width:150px;
+    height:150px;
+}
